@@ -1,0 +1,6 @@
+F:\Visual Studio\Projects\l2power\l2power\bin\Debug\l2power.exe.config
+F:\Visual Studio\Projects\l2power\l2power\obj\Debug\l2power.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Projects\l2power\l2power\bin\Debug\l2power.exe
+F:\Visual Studio\Projects\l2power\l2power\bin\Debug\l2power.pdb
+F:\Visual Studio\Projects\l2power\l2power\obj\Debug\l2power.exe
+F:\Visual Studio\Projects\l2power\l2power\obj\Debug\l2power.pdb
